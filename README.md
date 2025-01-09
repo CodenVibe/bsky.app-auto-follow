@@ -76,10 +76,10 @@ Example:https://bsky.app/profile/username.bsky.social/post/post_id/liked-by
 
 ## Demonstration Videos
 ### 1. How to Fetch Followers and Likers
-[![Fetch Followers and Likers](https://youtu.be/8FPZpdM2Y-c)](https://youtu.be/8FPZpdM2Y-c)
+[![Fetch Followers and Likers]](https://youtu.be/8FPZpdM2Y-c)
 
 ### 2. How to Follow Users from a JSON File
-[![Follow Users](https://youtu.be/8FPZpdM2Y-c)](https://youtu.be/8FPZpdM2Y-c)
+[![Follow Users]](https://youtu.be/8FPZpdM2Y-c)
 
 ---
 
